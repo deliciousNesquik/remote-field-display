@@ -68,6 +68,7 @@ public class SettingsViewModel: ViewModelBase
                 Localization.RU => 0,
                 Localization.EN => 1,
                 Localization.BASH => 2,
+                Localization.CH => 3,
                 _ => 0
             };
         }
